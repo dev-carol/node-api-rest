@@ -21,6 +21,7 @@ npm start
 - Nodemon
 - Consign
 - Body parse
+- My Sql
 
 
 
